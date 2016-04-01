@@ -29,7 +29,7 @@ body{
 }
 
 .navCenter{
-	margin-left:550px;
+	margin-left:20%;
 	color:#282828;
 }
 .navCenter li a{
@@ -103,4 +103,31 @@ font-size:10px;
 
 .news h5{
 font-size:10px;
+}
+
+.footer{
+	width:100%;
+	height:100px;
+	background-color:#282828;
+}
+
+.bottomNav {
+display:inline-block;
+font-size:10px;
+}
+
+.bottomNav ul li{
+display:inline;
+margin-right:10px;
+
+}
+
+.bottomNav ul li a{
+text-decoration:none;
+color:white;
+
+}
+
+.copy p{
+	font-size:10px;
 }
